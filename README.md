@@ -23,7 +23,7 @@ Sem instalação. Sem dependências. Só Windows.
 Abra o PowerShell e execute:
 
 ```powershell
-irm https://raw.githubusercontent.com/Forevit/Albummer/main/albummer.ps1 | iex
+irm https://raw.githubusercontent.com/Forevit/Albummer/main/Albummer.ps1 | iex
 ```
 
 O script vai guiar você em dois passos:
